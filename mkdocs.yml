@@ -1,9 +1,9 @@
-site_name: Stellarity Wiki
-site_url: https://stellarity.kohara.xyz/
+site_name: Stellarity Test Wiki
+site_url: https://stellarity.brokenemp.xyz/
 site_description: >-
   Wiki for the Stellarity project
 
-repo_url: https://github.com/kohy-creates/Stellarity
+repo_url: https://github.com/Brokenemp/Stellarity
 repo_name: Stellarity on Github
 
 nav:
