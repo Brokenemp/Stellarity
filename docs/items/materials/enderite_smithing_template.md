@@ -46,7 +46,7 @@
 ## Obtaining
 The Enderite Smithing template can be found in End City and End Dungeon chests. It can be duplicated with 5 [Enderite Shards](../materials/enderite_shard.md) and 9 Purper blocks on the [Altar of The Accursed](../../mechanics/altar_of_the_accursed.md).
 
-# Usage
+## Usage
 The Enderite Smithing Template is used to craft [Chorus Champion Armor](../armor/chorus_champion_armor.md), [Hallowed Armor](../armor/hallowed_armor.md), [Shulker Armor](../armor/shulker_armor.md) and [Tools](../other/shulker_tools.md), [Call of the Void](../call_of_the_void.md), [Spectral Fury](../spectral_fury.md), and the [Hematic Pickaxe](../other/hematic_pickaxe.md). at the [Altar of The Accursed](../../mechanics/altar_of_the_accursed.md)
 
 ## History

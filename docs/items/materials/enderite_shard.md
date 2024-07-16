@@ -28,7 +28,7 @@
 ## Obtaining
 Has a 2% chance to drop from mined End Stone.
 
-# Usage
+## Usage
 The Enderite Shard is used to craft [Call of the Void](../call_of_the_void.md), and the [Enderite Smithing Template](enderite_smithing_template.md) at the [Altar of The Accursed](../../mechanics/altar_of_the_accursed.md)
 
 ## History

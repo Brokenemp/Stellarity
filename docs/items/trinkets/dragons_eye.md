@@ -53,4 +53,4 @@ When held, Endermen and Phantoms become fully passive, meaning they won't attack
     - :rocket: Resprited
 	
 === "**v2.1a**"
-    - :Rocket: Introduced
+    - :rocket: Introduced

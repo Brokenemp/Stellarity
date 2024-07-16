@@ -12,39 +12,39 @@ The Altar of the Accursed will generate in an oddly shaped pillar on the main is
 
 ## Usage
 Throwing items on top of the Altar of the Accursed will cause them to combine together into new items
-- Hallowed Armor:
+- [Hallowed Armor](../items/armor/hallowed_armor.md):
     - Any piece of netherite armor
     - 4 Hallowed Ingots
     - 1 Enderite Smithing Template
 
-- Chorus Champion Armor:
+- [Chorus Champion Armor](../items/armor/chorus_champion_armor.md):
     - Any piece of netherite armor
     - 4 Chorus Plating
     - 1 Enderite Smithing Template
 
-- Shulker Armor/Shulker Tools:
+- [Shulker Armor](../items/armor/shulker_armor.md)/[Shulker Tools](../items/other/shulker_tools.md):
     - Any netherite armor/tool
     - 4 Shulker Shells
     - 1 Enderite Smithing Template
 
-- Hematic Pickaxe:
+- [Hematic Pickaxe](../items/other/hematic_pickaxe.md):
     - Netherite Pickaxe 
     - Living Flesh
     - 1 Enderite Smithing Template
 
-- Call of the Void:
+- [Call of the Void](../items/call_of_the_void.md):
     - Bow 
     - 8 Dragon's Breath
     - 16 Enderite Shards
     - 1 Enderite Smithing Template
 
-- Spectral Fury (UNOBTAINABLE IN 2.2.0):
+- [Spectral Fury](../items/spectral_fury.md) (UNOBTAINABLE IN 2.2.0):
     - Sharanga 
     - 3 Diamonds
     - 8 Phantom Membrane
     - 1 Enderite Smithing Template
 
-The Altar of the Accursed can also be used to disenchant items.
+The Altar of the Accursed can also be used to disenchant items, if you throw the item getting disenchanted on top of the altar with a book.
 
 ## History
 

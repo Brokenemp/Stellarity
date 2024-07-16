@@ -39,20 +39,18 @@
 The Altar of the Sacred generates directly in the middle of the Chapel of Light. It can be mined with a diamond pickaxe or stronger.
 
 ## Usage
-Throwing Iron, Gold, Diamond, Emerald or Netherite on top of the Altar will give specific buffs
-- <i class="icon-minecraft icon-minecraft-iron-ingot"></i>**IRON:** 3 minutes of resistance per iron ingot
-- <i class="icon-minecraft icon-minecraft-gold-ingot"></i>**GOLD:** 3.5 minutes of haste per gold ingot
-- <i class="icon-minecraft icon-minecraft-diamond"></i>**DIAMOND:** 5.5 minutes of speed per diamond
-- <i class="icon-minecraft icon-minecraft-emerald"></i>**EMERALD:** 4.25 minutes of hero of the village per emerald
-- <i class="icon-minecraft icon-minecraft-netherite-ingot"></i>**NETHERITE:** 20 minutes of fire resistance per netherite ingot
-Throwing multiple of the same ingot at once increases the duration of the effect.
-<b>
-Throwing treasure heads onto the altar will reroll the head, changing it to a new one.
-<b>
-Throwing [Pixie Dust](../items/materials/pixie_dust.md) onto the altar will summon the Empress of Light, Stellarity's 1 current added boss.
+- Throwing Iron, Gold, Diamond, Emerald or Netherite on top of the Altar will give specific buffs
+    - <i class="icon-minecraft icon-minecraft-iron-ingot"></i>**IRON:** 3 minutes of resistance per iron ingot
+    - <i class="icon-minecraft icon-minecraft-gold-ingot"></i>**GOLD:** 3.5 minutes of haste per gold ingot
+    - <i class="icon-minecraft icon-minecraft-diamond"></i>**DIAMOND:** 5.5 minutes of speed per diamond
+    - <i class="icon-minecraft icon-minecraft-emerald"></i>**EMERALD:** 4.25 minutes of hero of the village per emerald
+    - <i class="icon-minecraft icon-minecraft-netherite-ingot"></i>**NETHERITE:** 20 minutes of fire resistance per netherite ingot
+- Throwing multiple of the same ingot at once increases the duration of the effect.
+- Throwing treasure heads onto the altar will reroll the head, changing it to a new one.
+- Throwing [Pixie Dust](../items/materials/pixie_dust.md) onto the altar will summon the Empress of Light, Stellarity's 1 current added boss.
 
 ## Tips
-- Remember to sacrifice materials before starting the empress fight, its right there and will give you a nice boost for the fight
+- Remember to sacrifice materials before starting the Empress fight, its right there and will give you a nice boost for the fight
 
 ## History
 === "**Indev-2.3.0**"
